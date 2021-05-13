@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/elemental-weapon-generator/static/css/main.956612dd.chunk.css",
-    "main.js": "/elemental-weapon-generator/static/js/main.ee981d7c.chunk.js",
-    "main.js.map": "/elemental-weapon-generator/static/js/main.ee981d7c.chunk.js.map",
+    "main.js": "/elemental-weapon-generator/static/js/main.a70492ae.chunk.js",
+    "main.js.map": "/elemental-weapon-generator/static/js/main.a70492ae.chunk.js.map",
     "runtime-main.js": "/elemental-weapon-generator/static/js/runtime-main.757c3008.js",
     "runtime-main.js.map": "/elemental-weapon-generator/static/js/runtime-main.757c3008.js.map",
     "static/js/2.235f9609.chunk.js": "/elemental-weapon-generator/static/js/2.235f9609.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.757c3008.js",
     "static/js/2.235f9609.chunk.js",
     "static/css/main.956612dd.chunk.css",
-    "static/js/main.ee981d7c.chunk.js"
+    "static/js/main.a70492ae.chunk.js"
   ]
 }
