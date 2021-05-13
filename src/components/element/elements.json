@@ -1,0 +1,42 @@
+[
+    {
+        "element": "Fire",
+        "image": ""
+    },
+    {
+        "element": "Water",
+        "image": ""
+    },
+    {
+        "element": "Wind",
+        "image": ""
+    },
+    {
+        "element": "Lightning",
+        "image": ""
+    },
+    {
+        "element": "Earth",
+        "image": ""
+    },
+    {
+        "element": "Poison",
+        "image": ""
+    },
+    {
+        "element": "Ice",
+        "image": ""
+    },
+    {
+        "element": "Nature",
+        "image": ""
+    },
+    {
+        "element": "Light",
+        "image": ""
+    },
+    {
+        "element": "Darkness",
+        "image": ""
+    }
+]

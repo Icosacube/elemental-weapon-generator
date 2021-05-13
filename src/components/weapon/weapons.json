@@ -1,0 +1,42 @@
+[
+    {
+        "weapon": "Sword",
+        "image": "./sword.png"
+    },
+    {
+        "weapon": "Shield",
+        "image": ""
+    },
+    {
+        "weapon": "Dagger",
+        "image": ""
+    },
+    {
+        "weapon": "Axe",
+        "image": ""
+    },
+    {
+        "weapon": "Whip",
+        "image": ""
+    },
+    {
+        "weapon": "Bow",
+        "image": ""
+    },
+    {
+        "weapon": "Claws",
+        "image": ""
+    },
+    {
+        "weapon": "Spear",
+        "image": ""
+    },
+    {
+        "weapon": "Knuckles",
+        "image": ""
+    },
+    {
+        "weapon": "Hammer",
+        "image": ""
+    }
+]

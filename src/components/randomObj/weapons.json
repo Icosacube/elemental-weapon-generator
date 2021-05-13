@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Sword",
+        "image": "./sword.png"
+    },
+    {
+        "name": "Shield",
+        "image": "./shield.png"
+    },
+    {
+        "name": "Dagger",
+        "image": "./dagger.png"
+    },
+    {
+        "name": "Axe",
+        "image": "./axe.png"
+    },
+    {
+        "name": "Whip",
+        "image": "./whip.png"
+    },
+    {
+        "name": "Bow",
+        "image": "./bow.png"
+    },
+    {
+        "name": "Claws",
+        "image": "./claw.png"
+    },
+    {
+        "name": "Spear",
+        "image": "./spear.png"
+    },
+    {
+        "name": "Knuckles",
+        "image": "./knuckle.png"
+    },
+    {
+        "name": "Hammer",
+        "image": "./hammer.png"
+    }
+]
